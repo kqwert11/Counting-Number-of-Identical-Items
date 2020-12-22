@@ -1,1 +1,2 @@
-# Counting-Number-of-Identical-Items
+# Project
+Please make sure you follow the project [guidelines](./guidelines.md) carefully.
